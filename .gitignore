@@ -1,5 +1,6 @@
 # Large data files
 creditcard.csv
+financial_fraud_detection_dataset.csv
 
 # Python cache
 __pycache__/
